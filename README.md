@@ -11,4 +11,4 @@ Gehaeuse_Aussen_Breite, Gehaeuse_Innen_Breite
 
 * Keine Sonderzeichen
 * Erste Buchstabe Groß
-* 
+
